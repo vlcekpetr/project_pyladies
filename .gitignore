@@ -1,0 +1,7 @@
+venv
+client_secrets.json
+include/
+lib/
+local/
+share/
+bin/
